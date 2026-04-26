@@ -1,8 +1,6 @@
-# ⛽ Gas Leakage Monitoring System using MQ4 Sensor (ESP32 + I2C LCD)
+# ⛽ Gas Leakage Monitoring System (ESP32)
 
-This project implements a **gas leakage monitoring system** using an MQ4 gas sensor and ESP32.
-It continuously measures gas concentration and displays the value in percentage on a **16x2 LCD with I2C interface**.
-The system provides **real-time monitoring** and can be extended for safety alert systems.
+This project implements a **gas leakage monitoring system** using an MQ4 gas sensor and ESP32.It continuously measures gas concentration and displays the value in percentage on a **16x2 LCD with I2C interface**. The system provides **real-time monitoring** and can be extended for safety alert systems.
 
 ---
 
